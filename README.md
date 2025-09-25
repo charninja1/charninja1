@@ -24,6 +24,9 @@ https://github.com/charninja1/Alphadoku-Solver
 **OPENAI Agent Stock Analyzer**
 https://github.com/charninja1/stock-analyzer
 
+**Traders Journal and Analyzer**
+https://trader-journal-one.vercel.app
+
 ---
 
 ## What I'm Learning Now
